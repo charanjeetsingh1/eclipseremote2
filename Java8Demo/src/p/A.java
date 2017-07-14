@@ -5,6 +5,7 @@ public interface A {
 	default void definedMethod(){
 		System.out.println("Defined Method in Java 8");
 		//edgdgdffddf
+		//srfsrgfsdfds
 	}
 
 }
